@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Olin REVO - E-Bike</title>
+		<description><![CDATA[]]></description>
+		<link>http://olinrevo.org/projects/e-bike</link>
+		<lastBuildDate>Sun, 29 Sep 2013 21:50:48 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://olinrevo.org/projects/e-bike?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>E Bike Overview</title>
+			<link>http://olinrevo.org/projects/e-bike/17-e-bike-overview</link>
+			<guid isPermaLink="true">http://olinrevo.org/projects/e-bike/17-e-bike-overview</guid>
+			<description><![CDATA[<div class="feed-description"><h1 style="text-align: center;">[title1]The E-Bike Project[/title1][title2]Our First Development Platform[/title2]</h1>
+<p>
+<object width="750" height="422" data="http://www.youtube.com/v/zNn0uG_0WFk?hl=en_US&amp;version=3&amp;rel=0" type="application/x-shockwave-flash"><param name="movie" value="http://www.youtube.com/v/zNn0uG_0WFk?hl=en_US&amp;version=3&amp;rel=0" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /></object>
+</p>
+<p>When REVO was in its infancy, the team was looking for a project with a reasonable scope that would still be engaging for team members. In the spring of 2012, the team began to design and plan the construction of an electric-assist bicycle. After a few months we had a design in place, ready to be acted upon in the fall semester. When the team was reunited in August, we quickly hit the ground running and got the bike up and running with the help of our many new team members.</p>
+<p style="text-align: center;"><a rel="rokbox[1200 800]" title="Finished Batteries :: The battery boxes our team created with the donated BMS and batteries courtesy of Manzanita Micro." href="http://olinrevo.org//media/rokgallery/2/2eeb9154-f80d-4694-f4b1-f64d07595bea/40cfdfa0-969e-492b-de05-89e5c95d58c5.jpg"><img src="http://olinrevo.org//media/rokgallery/2/2eeb9154-f80d-4694-f4b1-f64d07595bea/40cfdfa0-969e-492b-de05-89e5c95d58c5-thumb.jpg" style="max-width: 100%; height: auto;" alt="" title="" /></a>&nbsp;<a rel="rokbox[1200 800]" title="Finished Bike :: The finished bike in it" s="" finished="" functioning="" form="" the="" project="" will="" keep="" evolving="" from="" this="" point="" href="http://olinrevo.org//media/rokgallery/4/49c6544d-e432-448d-8fc8-ca8fa9a318ce/94edf90a-dc92-4506-a35d-139d1168166f.jpg"><img src="http://olinrevo.org//media/rokgallery/4/49c6544d-e432-448d-8fc8-ca8fa9a318ce/94edf90a-dc92-4506-a35d-139d1168166f-thumb.jpg" style="max-width: 100%; height: auto;" alt="" title="" /></a></p>
+<p>Though it may just look like a bike, this project was a whole-team effort. Though we had an existing bike frame, our chassis team had to design a custom mounting system for all of the equipment that would be added to this bicycle. In addition, they were responsible for ensuring that all of our new components interfaced well with the existing mechanics.</p>
+<p>Our powertrain members focused their efforts on making sure our motor controller interfaced well with the motor, and that our batteries and battery management system were implemented safely and securely, for the well-being of both our equipment and our team members. Finally, our sensing team worked tirelessly programming our motor controller and to develop a working sensor package to provide both the battery management system and motor controller with valuable data.</p>
+<p><a rel="rokbox[1200 800]" title="Hacked Throttle :: A throttle hacked to work with our preferred sensor and controller." href="http://olinrevo.org//media/rokgallery/6/60ace6e8-0994-4b2a-e753-7588ef6d391f/e08a1a32-aee0-4f94-88b3-60ace0fe4463.jpg"><img src="http://olinrevo.org//media/rokgallery/6/60ace6e8-0994-4b2a-e753-7588ef6d391f/e08a1a32-aee0-4f94-88b3-60ace0fe4463-thumb.jpg" style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto;" alt="" title="" /></a></p>
+<p>With 8 LiFePO4 Thundersky Cells, this bike has 1kWh of charge on board. That means it’s got enough juice to run at full power on flat ground for over an hour. With the controller powering the motor at up to 35 Amps at 12V, we’ve seen this bike going upwards of 20mph with no human pedal assistance.</p>
+<p>This was a great design and build exercise for our team, and it will always have a special place on our wall of accomplishments. As our focus shifts to our latest projects, we will continue to improve the bike over time, and use it as a test platform for new technologies as we develop them.</p></div>]]></description>
+			<author>nick@roboticmayhem.com (Nick)</author>
+			<category>E Bike</category>
+			<pubDate>Thu, 29 Nov 2012 10:50:01 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

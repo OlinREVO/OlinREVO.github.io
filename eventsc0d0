@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Olin REVO - Events</title>
+		<description><![CDATA[]]></description>
+		<link>http://olinrevo.org/events</link>
+		<lastBuildDate>Sun, 29 Sep 2013 21:50:54 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://olinrevo.org/events?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Tesla x REVO: Spring Career Fair</title>
+			<link>http://olinrevo.org/events/22-tesla-revo</link>
+			<guid isPermaLink="true">http://olinrevo.org/events/22-tesla-revo</guid>
+			<description><![CDATA[<div class="feed-description"><h1 style="text-align: center;">[title1]REVO Presents: Tesla Motors Info Session[/title1][title2]Friday, February 15, 2013[/title2]</h1>
+<p><a rel="rokbox[425 100]" title="teslaLogo :: " href="http://olinrevo.org//media/rokgallery/9/9e2bcba2-90a8-4721-b9b0-b3558d0b491b/77f1191e-e577-4995-8d85-2fc94a41bea5.jpg"><img src="http://olinrevo.org//media/rokgallery/9/9e2bcba2-90a8-4721-b9b0-b3558d0b491b/77f1191e-e577-4995-8d85-2fc94a41bea5-thumb.jpg" style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto;" alt="Tesla Motors" height="auto" /></a></p>
+<p>As part of a college-wide recruiting effort, Tesla is visiting Olin College for a career info session and REVO will be hosting them!&nbsp;Joining the recruiting team is Adam Horton, an Olin College alumnus from the class of 2006 and current mechanical engineer with the Battery Engineering team. Nick and Mark, both Tesla summer alumni, have been in constant communication with the recruiting team and are pleased to announce that REVO has scheduled a 45-minute private Q&amp;A and presentation session for our members. We also are pleased to announce that we are expecting a Model S visit from a passionate local owner.&nbsp;</p></div>]]></description>
+			<author>nick@roboticmayhem.com (Nick)</author>
+			<category>Event</category>
+			<pubDate>Mon, 11 Feb 2013 04:58:28 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

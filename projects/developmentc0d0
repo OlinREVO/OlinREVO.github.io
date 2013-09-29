@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Olin REVO - Development</title>
+		<description><![CDATA[]]></description>
+		<link>http://olinrevo.org/projects/development</link>
+		<lastBuildDate>Sun, 29 Sep 2013 21:50:49 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://olinrevo.org/projects/development?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Ackermann Steering</title>
+			<link>http://olinrevo.org/projects/development/43-ackermann-steering</link>
+			<guid isPermaLink="true">http://olinrevo.org/projects/development/43-ackermann-steering</guid>
+			<description><![CDATA[<div class="feed-description"><p style="text-align: center;"><a title="SteeringGeometry :: " href="http://olinrevo.org//media/rokgallery/1/166bd22b-3105-4fba-bc39-794470214ed5/d5ba9ba4-ce66-40e3-e21b-16f935d5f320.png" rel="rokbox[1200 800]"><img style="max-width: 100%; height: auto;" title="" src="http://olinrevo.org//media/rokgallery/1/166bd22b-3105-4fba-bc39-794470214ed5/d5ba9ba4-ce66-40e3-e21b-16f935d5f320.png" alt="" /></a></p>
+<p>One of the first things we noticed about the beginnings of our chassis was that the steering seemed faulty. To test this, we created a solidworks simulation of the steering system, and found that the steering was indeed far from optimized. In order to fix this, we began analyzing what parts of the system could be changed to make the steering as close to the ideal Ackermann steering as possible, and decided to focus our efforts on the central steering column, and designed a replacement part that will hopefully help to optimize our system.</p>
+</div>]]></description>
+			<author>nick@roboticmayhem.com (Nick)</author>
+			<category>Development</category>
+			<pubDate>Tue, 05 Mar 2013 10:02:51 +0000</pubDate>
+		</item>
+		<item>
+			<title>Regenerative Braking with Capacitors</title>
+			<link>http://olinrevo.org/projects/development/39-regenerative-braking-with-capacitors</link>
+			<guid isPermaLink="true">http://olinrevo.org/projects/development/39-regenerative-braking-with-capacitors</guid>
+			<description><![CDATA[<div class="feed-description"><p style="text-align: center;"><a title="Regen 1 :: " href="http://olinrevo.org//media/rokgallery/e/ec0b9ba3-1875-4996-cbb9-103e091ef6d8/6fe0a472-a9d8-4fbc-e0d3-b90b43b74eba.jpg" rel="rokbox[565 766]"><img style="max-width: 100%; height: auto;" title="" src="http://olinrevo.org//media/rokgallery/e/ec0b9ba3-1875-4996-cbb9-103e091ef6d8/6fe0a472-a9d8-4fbc-e0d3-b90b43b74eba-thumb.jpg" alt="" /></a></p>
+<p>Thus far, we have built a basic circuit to demonstrate the different regimes involved in&nbsp;regenerative braking. The behavior of the circuit is dependent on the way the three binary slide&nbsp;switches are turned. A schematic of the circuit is shown above.</p>
+</div>]]></description>
+			<author>mark.muraoka@students.olin.edu (Mark)</author>
+			<category>Development</category>
+			<pubDate>Tue, 26 Feb 2013 09:17:32 +0000</pubDate>
+		</item>
+		<item>
+			<title>Kart Chassis Restoration</title>
+			<link>http://olinrevo.org/projects/development/40-kart-chassis-restoration</link>
+			<guid isPermaLink="true">http://olinrevo.org/projects/development/40-kart-chassis-restoration</guid>
+			<description><![CDATA[<div class="feed-description"><p><a title="FrameWelds :: " href="http://olinrevo.org//media/rokgallery/c/c4f845ce-0aa0-4113-b3bb-fc68630b6cf0/f70b76bf-6972-4b09-9ace-a556e1cf9f70.jpg" rel="rokbox[1200 800]"><img style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto;" title="" src="http://olinrevo.org//media/rokgallery/c/c4f845ce-0aa0-4113-b3bb-fc68630b6cf0/f70b76bf-6972-4b09-9ace-a556e1cf9f70-thumb.jpg" alt="" /></a></p>
+<p>REVO acquired our Tony Kart Extreme 1999 go-kart frame in bad condition. &nbsp;The kart was most likely used before we obtained it as a fire extinguisher kart, which we extrapolated from the non-OEM add-on structural members and mounting tabs added. &nbsp;Due to the fact that this frame was made over 10 years ago, there were also some issues with hardware and parts. </p>
+</div>]]></description>
+			<author>mark.muraoka@students.olin.edu (Mark)</author>
+			<category>Development</category>
+			<pubDate>Tue, 26 Feb 2013 09:17:25 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

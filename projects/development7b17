@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Olin REVO - Development</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://olinrevo.org"/>
+	<id>http://olinrevo.org/projects/development</id>
+	<updated>2013-09-29T21:50:50+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://olinrevo.org/projects/development?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Ackermann Steering</title>
+		<link rel="alternate" type="text/html" href="http://olinrevo.org/projects/development/43-ackermann-steering"/>
+		<published>2013-03-05T10:02:51+00:00</published>
+		<updated>2013-03-05T10:02:51+00:00</updated>
+		<id>http://olinrevo.org/projects/development/43-ackermann-steering</id>
+		<author>
+			<name>Nick</name>
+			<email>nick@roboticmayhem.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a title=&quot;SteeringGeometry :: &quot; href=&quot;/media/rokgallery/1/166bd22b-3105-4fba-bc39-794470214ed5/d5ba9ba4-ce66-40e3-e21b-16f935d5f320.png&quot; rel=&quot;rokbox[1200 800]&quot;&gt;&lt;img style=&quot;max-width: 100%; height: auto;&quot; title=&quot;&quot; src=&quot;/media/rokgallery/1/166bd22b-3105-4fba-bc39-794470214ed5/d5ba9ba4-ce66-40e3-e21b-16f935d5f320.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;One of the first things we noticed about the beginnings of our chassis was that the steering seemed faulty. To test this, we created a solidworks simulation of the steering system, and found that the steering was indeed far from optimized. In order to fix this, we began analyzing what parts of the system could be changed to make the steering as close to the ideal Ackermann steering as possible, and decided to focus our efforts on the central steering column, and designed a replacement part that will hopefully help to optimize our system.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a title=&quot;SteeringGeometry :: &quot; href=&quot;/media/rokgallery/1/166bd22b-3105-4fba-bc39-794470214ed5/d5ba9ba4-ce66-40e3-e21b-16f935d5f320.png&quot; rel=&quot;rokbox[1200 800]&quot;&gt;&lt;img style=&quot;max-width: 100%; height: auto;&quot; title=&quot;&quot; src=&quot;/media/rokgallery/1/166bd22b-3105-4fba-bc39-794470214ed5/d5ba9ba4-ce66-40e3-e21b-16f935d5f320.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;One of the first things we noticed about the beginnings of our chassis was that the steering seemed faulty. To test this, we created a solidworks simulation of the steering system, and found that the steering was indeed far from optimized. In order to fix this, we began analyzing what parts of the system could be changed to make the steering as close to the ideal Ackermann steering as possible, and decided to focus our efforts on the central steering column, and designed a replacement part that will hopefully help to optimize our system.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Development" />
+	</entry>
+	<entry>
+		<title>Regenerative Braking with Capacitors</title>
+		<link rel="alternate" type="text/html" href="http://olinrevo.org/projects/development/39-regenerative-braking-with-capacitors"/>
+		<published>2013-02-26T09:17:32+00:00</published>
+		<updated>2013-02-26T09:17:32+00:00</updated>
+		<id>http://olinrevo.org/projects/development/39-regenerative-braking-with-capacitors</id>
+		<author>
+			<name>Mark</name>
+			<email>mark.muraoka@students.olin.edu</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a title=&quot;Regen 1 :: &quot; href=&quot;/media/rokgallery/e/ec0b9ba3-1875-4996-cbb9-103e091ef6d8/6fe0a472-a9d8-4fbc-e0d3-b90b43b74eba.jpg&quot; rel=&quot;rokbox[565 766]&quot;&gt;&lt;img style=&quot;max-width: 100%; height: auto;&quot; title=&quot;&quot; src=&quot;/media/rokgallery/e/ec0b9ba3-1875-4996-cbb9-103e091ef6d8/6fe0a472-a9d8-4fbc-e0d3-b90b43b74eba-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thus far, we have built a basic circuit to demonstrate the different regimes involved in&amp;nbsp;regenerative braking. The behavior of the circuit is dependent on the way the three binary slide&amp;nbsp;switches are turned. A schematic of the circuit is shown above.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a title=&quot;Regen 1 :: &quot; href=&quot;/media/rokgallery/e/ec0b9ba3-1875-4996-cbb9-103e091ef6d8/6fe0a472-a9d8-4fbc-e0d3-b90b43b74eba.jpg&quot; rel=&quot;rokbox[565 766]&quot;&gt;&lt;img style=&quot;max-width: 100%; height: auto;&quot; title=&quot;&quot; src=&quot;/media/rokgallery/e/ec0b9ba3-1875-4996-cbb9-103e091ef6d8/6fe0a472-a9d8-4fbc-e0d3-b90b43b74eba-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thus far, we have built a basic circuit to demonstrate the different regimes involved in&amp;nbsp;regenerative braking. The behavior of the circuit is dependent on the way the three binary slide&amp;nbsp;switches are turned. A schematic of the circuit is shown above.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Development" />
+	</entry>
+	<entry>
+		<title>Kart Chassis Restoration</title>
+		<link rel="alternate" type="text/html" href="http://olinrevo.org/projects/development/40-kart-chassis-restoration"/>
+		<published>2013-02-26T09:17:25+00:00</published>
+		<updated>2013-02-26T09:17:25+00:00</updated>
+		<id>http://olinrevo.org/projects/development/40-kart-chassis-restoration</id>
+		<author>
+			<name>Mark</name>
+			<email>mark.muraoka@students.olin.edu</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;a title=&quot;FrameWelds :: &quot; href=&quot;/media/rokgallery/c/c4f845ce-0aa0-4113-b3bb-fc68630b6cf0/f70b76bf-6972-4b09-9ace-a556e1cf9f70.jpg&quot; rel=&quot;rokbox[1200 800]&quot;&gt;&lt;img style=&quot;max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto;&quot; title=&quot;&quot; src=&quot;/media/rokgallery/c/c4f845ce-0aa0-4113-b3bb-fc68630b6cf0/f70b76bf-6972-4b09-9ace-a556e1cf9f70-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;REVO acquired our Tony Kart Extreme 1999 go-kart frame in bad condition. &amp;nbsp;The kart was most likely used before we obtained it as a fire extinguisher kart, which we extrapolated from the non-OEM add-on structural members and mounting tabs added. &amp;nbsp;Due to the fact that this frame was made over 10 years ago, there were also some issues with hardware and parts. &lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;a title=&quot;FrameWelds :: &quot; href=&quot;/media/rokgallery/c/c4f845ce-0aa0-4113-b3bb-fc68630b6cf0/f70b76bf-6972-4b09-9ace-a556e1cf9f70.jpg&quot; rel=&quot;rokbox[1200 800]&quot;&gt;&lt;img style=&quot;max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto;&quot; title=&quot;&quot; src=&quot;/media/rokgallery/c/c4f845ce-0aa0-4113-b3bb-fc68630b6cf0/f70b76bf-6972-4b09-9ace-a556e1cf9f70-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;REVO acquired our Tony Kart Extreme 1999 go-kart frame in bad condition. &amp;nbsp;The kart was most likely used before we obtained it as a fire extinguisher kart, which we extrapolated from the non-OEM add-on structural members and mounting tabs added. &amp;nbsp;Due to the fact that this frame was made over 10 years ago, there were also some issues with hardware and parts. &lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Development" />
+	</entry>
+</feed>

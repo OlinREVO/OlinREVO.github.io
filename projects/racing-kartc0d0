@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Olin REVO - Racing Kart</title>
+		<description><![CDATA[]]></description>
+		<link>http://olinrevo.org/projects/racing-kart</link>
+		<lastBuildDate>Sun, 29 Sep 2013 21:50:46 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://olinrevo.org/projects/racing-kart?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Racing Kart Overview</title>
+			<link>http://olinrevo.org/projects/racing-kart/19-racing-kart-overview</link>
+			<guid isPermaLink="true">http://olinrevo.org/projects/racing-kart/19-racing-kart-overview</guid>
+			<description><![CDATA[<div class="feed-description"><h1 style="text-align: center;">[title1]The Electric Racing Kart[/title1][title2]Designed to Compete in the EV Grand Prix[/title2]</h1>
+<p>As our bike project neared its conclusion, the team's leadership needed to decide on a direction for the team to go in order to keep members interested and the work of the club relevant. We wanted a competition, but only for the purpose of working towards a goal. Specifically, we wanted to learn how to make many of the fundamental pieces of EV's, such as their motor controllers and battery management systems. We happened upon the EV Grand Prix at Purdue University in Indiana. This annual competition pits racers in team-built go karts against each other in an endurance race to test both vehicle speed and efficiency.</p>
+<p style="text-align: center;"><a style="color: #0000cc; text-decoration: underline;" title="KartChassis :: " href="http://olinrevo.org//media/rokgallery/4/4032d897-bc22-404a-efbe-6bd0134e4316/d1cf2975-b727-4aab-8af8-af56a2c4c252.jpg" rel="rokbox[1200 800]"><img style="max-width: 100%; height: auto; margin: 10px;" src="http://olinrevo.org//media/rokgallery/4/4032d897-bc22-404a-efbe-6bd0134e4316/d1cf2975-b727-4aab-8af8-af56a2c4c252-thumb.jpg" alt="Racing Kart Chassis" height="auto" /></a>&nbsp;<a title="steering column :: " href="http://olinrevo.org//media/rokgallery/b/b5f5f7c4-33e5-41dd-81d0-0742953fc355/3e3aac4c-134d-4956-8701-c2ace8c55d89.jpg" rel="rokbox[1200 800]"><img style="max-width: 100%; height: auto; margin: 10px;" src="http://olinrevo.org//media/rokgallery/b/b5f5f7c4-33e5-41dd-81d0-0742953fc355/3e3aac4c-134d-4956-8701-c2ace8c55d89-thumb.jpg" alt="Chassis Front" height="auto" /></a></p>
+<p>The team will spend the next near designing, building, and testing an electric racing kart to compete in this event. We hope to learn even more from this endeavor and look forward to sharing our work with other participants. We believe that our commitment to open research will prove to be valuable in our approach to try to make as great an impact as possible in the electric vehicle industry.</p>
+<h3>Chassis Work</h3>
+<p>Our chassis sub team is hard at work restoring a 1999 Tony Kart racing chassis. This kart was found discarded by a student at Olin and donated to REVO. As we still lack the funding to purchase a fully functional kart chassis, this has become the project build for the chassis team. They're busy replacing rusted or broken components and tuning how it rolls and steers. They're also designing a removable roll cage to make it legal for EVGP and a motor mount for the ZERO Motorcycles powertrain we will be getting shortly for testing.</p>
+<h3>Powertrain Work</h3>
+<p>The powertrain group will handle the reverse engineering of the ZERO powertrain and attempt to outfit it to the kart chassis. This drivetrain already matches most of the requirements of the EVGP but we plan to study it and even work with ZERO to make improvements and do testing to study possibly improving its performance. An involved relationship with ZERO is forming to give our powertrain group these opportunities.</p>
+<p>If you are on a team participating in either this or next year's competition, please feel free to contact us! We would love to hear from you. Additionally, if you are a sponsor, we can always use more support to make this already fun project just that much more inspiring.</p></div>]]></description>
+			<author>nick@roboticmayhem.com (Nick)</author>
+			<category>Racing Kart</category>
+			<pubDate>Thu, 06 Dec 2012 13:49:36 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
